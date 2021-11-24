@@ -8,6 +8,8 @@
 
 ![section-one](https://user-images.githubusercontent.com/81451242/143259459-57d532ee-9491-4e94-920a-36c56d63560d.png)
 
+<hr>
+
 <h3>imagem 2 - Primeira Section + Menu inicial (Tela Smartphone) : </h3>
 
 <div align="center"
@@ -15,6 +17,8 @@
 ![section-one-smartphone](https://user-images.githubusercontent.com/81451242/143260710-f58bcd19-809a-449f-a209-d8279af7647f.png)
 
 </div>
+
+<hr>
 
 <h3>imagem 3 - Section com Grid + efeito Carousel : </h3>
 
@@ -24,6 +28,8 @@
 
 </div>
 
+<hr>
+
 <h3>imagem 4 - Section com Grid + efeito Carousel (Tela Smartphone) : </h3>
 
 <div align="center"
@@ -31,6 +37,8 @@
 ![grid-carousel-smartphone](https://user-images.githubusercontent.com/81451242/143261711-bb43dab4-c54d-4ea1-9045-d65242d5926b.png)
 
 </div>
+
+<hr>
 
 <h3>imagem 5 - Section Formulario de contato: </h3>
 
@@ -40,6 +48,8 @@
 
 </div>
 
+<hr>
+
 <h3>imagem 5 - Section Formulario de contato (Tela Smartphone): </h3>
 
 <div align="center"
@@ -48,6 +58,8 @@
 
 
 </div>
+
+<hr>
 
 <div align="center"><p> Neste projeto foi utilizado conhecimentos de HTML, CSS, JavaScript, e conceitos de WordPress para criação de themes </p> </div>
 <div align="center"><p> Dev. Luís Leda </p> </div>
