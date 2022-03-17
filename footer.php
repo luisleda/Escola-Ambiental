@@ -18,7 +18,7 @@
 <?php if ($showBackLink) : $GLOBALS['theme_backlink'] = true; ?>
 <section class="u-backlink u-clearfix u-grey-80">
             <a class="u-link" href="Free WordPress Themes" target="_blank">
-        <span>https://nicepage.com/wordpress-themes</span>
+        <span></span>
             </a>
         <p class="u-text"><span>created with</span></p>
         <a class="u-link" href="https://nicepage.com/wordpress-website-builder" target="_blank"><span>WordPress Website Builder</span></a>.
